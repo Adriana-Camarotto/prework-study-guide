@@ -20,5 +20,6 @@ When we open the DevTools console, we can see the JavaScript running. It will li
 N/A
 
 ## License
+
 MIT license
 ---
